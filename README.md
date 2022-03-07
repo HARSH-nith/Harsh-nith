@@ -5,7 +5,7 @@
 
 ## About Me:
 
-- 💡  I build cool stuff
+<!-- - 💡  I build cool stuff -->
  
 - 📧 To reach me just drop me a **[mail](mailto:harshvardhan28022003@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
 
