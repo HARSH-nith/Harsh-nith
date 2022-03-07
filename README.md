@@ -46,7 +46,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh-vardhan-a37a47201/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="30" style="object-fit:contain"/></a>
-<a href="https://twitter.com/HarshVa80996837" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="30" style="object-fit:contain"/></a>
+<a href="https://twitter.com/HarshVa80996837" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="30" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-nith&show_icons=true&locale=en&layout=compact" alt="Harsh-nith" /></p>
